@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[29],{678:function(e,n,t){"use strict";t.r(n);var r={name:"logout",middleware:function(e){var n=e.$stanza,t=e.redirect;return n.logout(),t("/login")}},o=t(9),component=Object(o.a)(r,(function(){var e=this.$createElement;return(this._self._c||e)("div")}),[],!1,null,"fc08066e",null);n.default=component.exports}}]);
